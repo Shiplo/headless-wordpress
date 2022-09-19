@@ -1,0 +1,14 @@
+
+// Install Front-end
+npx create-next-app
+
+// Run Development Environment
+npm run dev
+
+
+// Install SASS
+npm install sass
+
+
+// Install Tailwind and CSS
+npm install tailwindcss postcss-flexbugs-fixes postcss-preset-env postcss-import precss -D
